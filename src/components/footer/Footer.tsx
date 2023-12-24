@@ -4,7 +4,7 @@ import './footer.scss'
 const Footer = () => {
   return (
     <div className='footer'>
-      <span>Ranaadmin</span>
+      <span>RanaAdmin</span>
       <span> Mujahid dev Admin Dashboard</span>
     </div>
   )
